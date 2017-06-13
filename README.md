@@ -9,3 +9,4 @@ Group project Y2 ecommerce furniture website with signup, login, admin page, che
 
 ![image](https://user-images.githubusercontent.com/29299901/27066358-575f6674-4fb8-11e7-9efc-8c2516235d20.png)
 
+![image](https://user-images.githubusercontent.com/29299901/27066685-b80dcf68-4fba-11e7-9160-bbdaa2d3617a.png)
